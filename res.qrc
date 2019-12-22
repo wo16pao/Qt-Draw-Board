@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/保存.png</file>
+        <file>icon/打开.png</file>
+        <file>icon/画笔.png</file>
+        <file>icon/橡皮.png</file>
+        <file>icon/新建.png</file>
+        <file>icon/虚线.png</file>
+        <file>icon/绘制矩形.png</file>
+    </qresource>
+</RCC>
